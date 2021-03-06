@@ -22,4 +22,4 @@ Tech stack:
 
 ### Download
 
-Download zip file from the ![Releases section](https://github.com/alexandra-luca/egc-tema1/releases/tag/v2.0)
+Download zip file from the [Releases section](https://github.com/alexandra-luca/egc-tema1/releases/tag/v2.0)
