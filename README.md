@@ -19,3 +19,7 @@ Tech stack:
 * Shurikens attacking from the right side
 * Multiple arrows
 * Power bar which alters arrow speed
+
+### Download
+
+Download zip file from the ![Releases section](https://github.com/alexandra-luca/egc-tema1/releases/tag/v2.0)
